@@ -10,6 +10,7 @@ Description: A wrapper around the 'COVID Tracking Project API'
     <https://covidtracking.com/api/> providing data on cases of COVID-19
     in the US.
 License: MIT + file LICENSE
+URL: https://github.com/aedobbyn/covid19us/
 Imports:
     curl (>= 4.3),
     dplyr (>= 0.8.3),
